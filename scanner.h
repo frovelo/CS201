@@ -1,9 +1,7 @@
 #ifndef SCANNER_H
 #define SCANNER_H
 /* VERSION 1.2
- *
  * scanner.h - public interface to scanner.c, the scanner module
- *
  */
 
 extern int readInt(FILE *);
