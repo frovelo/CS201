@@ -7,8 +7,10 @@
 
 
     /*
-    *   Francisco Rovelo | Feb, 26
-    *   Binary Search Tree header file
+    *   Author: Francisco Rovelo 
+    *   Date: Feb, 26
+    *   About:
+    *       Binary Search Tree header file
     */
 
     typedef struct bstNode
