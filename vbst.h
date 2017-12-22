@@ -7,9 +7,11 @@
 #define __VBST_INCLUDED__
 
 
-    /*
-    *   Francisco Rovelo | Feb, 26
-    *   The vbst.h for vbst.c
+   /*
+    *   Author: Francisco Rovelo
+    *	Date: Feb, 26
+    *   About:
+    *		VBST header file
     */
 
     typedef struct vbst
