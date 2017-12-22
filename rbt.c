@@ -5,9 +5,13 @@
 #include "rbt.h"
 
    /*
-    *   Francisco Rovelo | Feb, 26
-    *   The rbt.c
+    *   Author: Francisco Rovelo
+    *	Date: Feb, 26
+    *   About:
+    *		Creates a Red Black Tree based off of a Binary Search Tree. Takes a void* value. Look at BST.c for more thoro-
+    *		ugh comments (I hope this code is self explanatory, probably not)
     */
+
 
 //static int getColor(bstNode*);
 static int getParentColor(bstNode*);
