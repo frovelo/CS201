@@ -5,7 +5,7 @@
     *   Author: Francisco Rovelo
     *	Date: Feb, 26
     *   About:
-    *		SLL header file
+    *		Header file for SLL.c
     */
 
 typedef struct sllnode
