@@ -5,8 +5,11 @@
 #include "bst.h"
 
    /*
-    *   Francisco Rovelo | Feb, 26
-    *   The vbst.c
+    *   Author: Francisco Rovelo
+    *	Date: Feb, 26
+    *   About:
+    *		Creates a Vanilla Binary Search Tree based off of a Binary Search Tree. Takes a void* value. Look at BST.c for more thoro-
+    *		ugh comments (I hope this code is self explanatory, probably not)
     */
 
 typedef struct  vbstVal {
