@@ -8,10 +8,10 @@
 *    Francisco Rovelo
 *    Dr. Lusth
 *    Date: 02/26/2017
-*
+*    About:
 *	 This program creates a binary search tree.
 *
-*    This code has been rigorously tested by Dr. John Lusth, University of Alabama Spr. '17
+*    	 This code has been rigorously tested by Dr. John Lusth, University of Alabama Spr. '17
 */
 
 
