@@ -9,7 +9,7 @@
     *	Date: Feb, 26
     *   About:
     *		Creates a Red Black Tree based off of a Binary Search Tree. Takes a void* value. Look at BST.c for more thoro-
-    *		ugh comments (I hope this code is self explanatory, probably not)
+    *		ugh comments or look up how a RBT operates(I hope this code is self explanatory, probably not)
     */
 
 
