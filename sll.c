@@ -7,12 +7,12 @@
 *    Francisco Rovelo
 *    Dr. Lusth
 *    Date: 2017
+*    About:
+*       This program creates a singly Linked List with a head and tail pointer. It holds a generic value, and it can ins-
+*       ert and remove at index. Through union with a donor and a recipient two list can be joined. Please look at dll.c for
+*       more thorough comments.
 *
-*    This program creates a singly Linked List with a head and tail pointer. It holds a generic value, and it can ins-
-*    ert and remove at index. Through union with a donor and a recipient two list can be joined. Please look at dll.c for
-*    more thorough comments.
-*
-*    This code has been rigorously tested by Dr. John Lusth, University of Alabama Spr. '17
+*       This code has been rigorously tested by Dr. John Lusth, University of Alabama Spr. '17
 */
 
 sll *newSLL(void (*d)(FILE *,void *)) //d is the display function
