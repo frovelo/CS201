@@ -8,7 +8,7 @@
 
     /*
     *   Francisco Rovelo | Feb, 26
-    *   The bst.h for bst.c
+    *   Binary Search Tree header file
     */
 
     typedef struct bstNode
