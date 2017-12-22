@@ -1,6 +1,13 @@
 #ifndef __SLL_INCLUDED__
 #define __SLL_INCLUDED__
 
+   /*
+    *   Author: Francisco Rovelo
+    *	Date: Feb, 26
+    *   About:
+    *		SLL header file
+    */
+
 typedef struct sllnode
 {
     void *value;
