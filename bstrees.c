@@ -13,7 +13,7 @@
 
 
 /*
-	Everything is read into a file. This project reads in "strings" or "phrases"
+	Commands are read into a file. This project reads in "strings" or "phrases"
 	and handles them according to the project specifications.
  */
 
