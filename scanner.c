@@ -5,7 +5,7 @@
 
 #include "scanner.h"
 
-/* VERSION 1.2
+/* VERSION 1.2 
  *
  * scanner.c - a collection of input routines for C
  *           - written by John C. Lusth
