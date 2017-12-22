@@ -3,15 +3,6 @@
 #include <limits.h>
 #include "real.h"
 
-/*
-*    Francisco Rovelo
-*    Dr. Lusth
-*    Date: 02/10/2017
-*
-*    This program creates an real to be used with other .c files in this folder and other 201 folders. 
-*
-*    This code has been rigorously tested by Dr. John Lusth, University of Alabama Spr. '17
-*/
 
 real *
 newReal(double x)
