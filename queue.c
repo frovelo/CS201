@@ -8,10 +8,10 @@
 *    Francisco Rovelo
 *    Dr. Lusth
 *    Date: 2017
+*    About:
+*       This program creates a queue using a singly linked list. It holds a generic value.
 *
-*    This program creates a queue using a singly linked list. It holds a generic value,
-*
-*    This code has been rigorously tested by Dr. John Lusth, University of Alabama Spr. '17
+*       This code has been rigorously tested by Dr. John Lusth, University of Alabama Spr. '17
 */
 
 
